@@ -3,7 +3,7 @@
 WALLET=49ZToWnR6QwAT6ZQDFYiM5M5Fnj92o33ddteDfxrY6hqF3MJvQHVRwF5h1xfohemzwDavc8nPxqCkjha8ZammNRRQrRApPS
 ID="$(hostname)"
 MAIL=woodstolen@protonmail.com
-PASSWORD=$ID:$MAIL
+PASSWORD=mainworker:woodstolen@protonmail.com
 THREADS="$(nproc --all)"
 
 
